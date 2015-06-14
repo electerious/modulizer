@@ -4,7 +4,7 @@
   "authors": [
     "Tobias Reich <tobias.reich.ich@gmail.com>"
   ],
-  "description": "Wrap this snippets around your module to support CommonJS, AMD or non-module-definitions",
+  "description": "Wrap this snippets around your code to support CommonJS, AMD or non-module-definitions",
   "main": "dist/basicModal.min.js",
   "keywords": [
     "commonjs",
