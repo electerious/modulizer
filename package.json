@@ -1,0 +1,29 @@
+{
+  "name": "@electerious/modulizer",
+  "version": "1.0.1",
+  "authors": [
+    "Tobias Reich <tobias.reich.ich@gmail.com>"
+  ],
+  "description": "Wrap this snippets around your module to support CommonJS, AMD or non-module-definitions",
+  "main": "dist/basicModal.min.js",
+  "keywords": [
+    "commonjs",
+    "amd",
+    "export",
+    "module"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/electerious/modulizer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electerious/modulizer.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "etc"
+  ]
+}
