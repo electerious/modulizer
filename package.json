@@ -2,7 +2,7 @@
   "name": "@electerious/modulizer",
   "version": "1.0.1",
   "authors": [
-    "Tobias Reich <tobias.reich.ich@gmail.com>"
+    "Tobias Reich <tobias@electerious.com>"
   ],
   "description": "Wrap this snippets around your code to support CommonJS, AMD or non-module-definitions",
   "main": "dist/basicModal.min.js",
